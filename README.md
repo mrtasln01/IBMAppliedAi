@@ -15,3 +15,5 @@ Applied Learning Project
 This Professional Certificate will give you a firm understanding of AI, its applications, and its use cases. You will become familiar with IBM Watson AI services and APIs. If you have no programming background, you will be able to create AI driven chatbots as well as pick up practical Python skills to work with AI. The courses will also enable you to apply pre-built AI smarts to your products and solutions.
 
 
+https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai
+
